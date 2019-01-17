@@ -7,6 +7,8 @@ Código básico de criação de template para Blogger a partir do zero.Para util
 ### en-US
 Basic code to create Blogger template from scratch. To use, import or copy the contents of the file to your blog. After importing, click the 'Format theme' and 'Revert widget themes to default' buttons.
 
+
+## XML 
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
