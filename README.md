@@ -1,1 +1,1 @@
-# blogger_from_scratch
+# Blogger Template from Scratch
